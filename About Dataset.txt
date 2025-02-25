@@ -1,0 +1,42 @@
+About Dataset
+This dataset contains records of motorcycle sales across various Indian states, covering top brands like Honda, Royal Enfield, TVS, Yamaha, Hero, Bajaj, KTM, and Kawasaki. The dataset includes key attributes such as average daily distance traveled, engine capacity, fuel type, mileage, price, resale value, insurance status, and seller type. It provides insights into bike sales trends, market demand, and resale values across different city tiers.
+
+🔹 Use Cases:
+
+Market Analysis: Understand the sales trend of different brands and models.
+
+Resale Price Estimation: Analyze depreciation trends.
+
+Consumer Behavior: Study how owner type, insurance, and mileage impact pricing.
+
+Geographical Trends: Identify demand patterns in different Indian states and city tiers.
+
+State (Random Indian states)
+
+Average Daily Distance (in km, between 5-80 km)
+
+Bike Brand (One of the top 10 brands you listed)
+
+Model Name (Random bike models per brand)
+
+Price (INR) (Based on brand & model)
+
+Year of Manufacture (2015-2024)
+
+Engine Capacity (cc) (100cc - 1000cc)
+
+Fuel Type (Petrol, Electric, Hybrid)
+
+Mileage (km/l) (Varies by brand)
+
+Owner Type (First, Second, Third)
+
+Registration Year (Varies based on Year of Manufacture)
+
+Insurance Status (Active, Expired, Not Available)
+
+Seller Type (Dealer, Individual)
+
+Resale Price (INR) (Based on depreciation formula)
+
+City Tier (Metro, Tier 1, Tier 2, Tier 3)
