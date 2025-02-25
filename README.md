@@ -1,5 +1,6 @@
 **Tableau_Projects-12: Indian Bike Sales Analysis**
-Key Features for Tableau Motorcycle Sales Dashboard 🚀
+
+**Key Features for Tableau Motorcycle Sales Dashboard**
 1. KPI Cards for Quick Insights – Instantly track total motorcycle sales, average price, and resale value.
 2. Interactive Geographic Analysis – Identify high-sales states and price variations using a dynamic Map Chart.
 3. Market Share & Brand Performance – Compare bike brands with Pie & Bar Charts to analyze dominance.
